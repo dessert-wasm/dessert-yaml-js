@@ -1,4 +1,4 @@
-let wasm = require('dessert-yaml/dessert_yaml_core');
+let wasm = require('dessert-yaml-core/dessert_yaml_core');
 
 function dump_all(objs) {
   let res = "";

@@ -1,6 +1,6 @@
 {
   "name": "dessert-yaml-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yaml-js but with WebAssembly",
   "scripts": {},
   "repository": {
@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/dessert-wasm/dessert-yaml-js#readme",
   "dependencies": {
-    "dessert-yaml": "^0.1.5"
+    "dessert-yaml-core": "^0.1.1"
   }
 }
