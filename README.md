@@ -11,7 +11,7 @@ Dessert YAML-JS
 [license-badge]: https://img.shields.io/github/license/dessert-wasm/dessert-yaml-js
 [license]: LICENSE_MIT
 
-This library is a clone of [yaml-js] implemented in Rust for WebAssembly.
+> Clone of [yaml-js] implemented in Rust for WebAssembly.
 
 *dessert-yaml-js* is a connector with the WASM core: [dessert-yaml-core]
 
